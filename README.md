@@ -1,0 +1,1 @@
+- [readMe](http://maxhu.logdown.com/posts/745144-xcodecombine-framework-with-auto-build)
